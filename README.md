@@ -1,2 +1,1 @@
-# CourseReview
-PSU Course Review App by kittithat
+# CRUD-React-Native-Expo-And-Firebase
